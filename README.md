@@ -1,6 +1,6 @@
 # Adversarial Attack
 
-Executing non-targeted attacks using the [Fast Gradient Sign Method (FGSM)](https://arxiv.org/abs/1412.6572) and [Iterative Fast Gradient Sign Method (I-FGSM)](https://arxiv.org/abs/1607.02533) attack algorithms on proxy networks, resulting in the model achieving an accuracy of **0.00%**.
+Executing non-targeted attacks using the [Fast Gradient Sign Method (FGSM)](https://arxiv.org/abs/1412.6572) and [Iterative Fast Gradient Sign Method (I-FGSM)](https://arxiv.org/abs/1607.02533) attack algorithms on proxy networks resulted in the model achieving an accuracy of **0.00%**.
 
 ## Attack Algorithm
 ### FGSM
